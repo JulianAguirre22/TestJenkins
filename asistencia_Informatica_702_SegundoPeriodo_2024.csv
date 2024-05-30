@@ -1,16 +1,41 @@
-Nombre,fecha,accion
-Arnold Julian,01/05/2024,9
-Arnold Julian,05/05/2024,5
-Arnold Julian,10/05/2024,3
-Arnold Julian,13/05/2024,1
-Arnold Julian,20/05/2024,2
-Angela,01/05/2024,3
-Angela,05/05/2024,1
-Angela,10/05/2024,9
-Angela,13/05/2024,7
-Angela,20/05/2024,6
-Luz Delia,01/05/2024,2
-Luz Delia,05/05/2024,5
-Luz Delia,10/05/2024,7
-Luz Delia,13/05/2024,3
-Luz Delia,20/05/2024,1
+[
+  {
+    "Nombre": "Arnold Julian",
+    "Fecha": "01/05/2024",
+    "Código de Acción": 9
+  },
+  {
+    "Nombre": "Arnold Julian",
+    "Fecha": "05/05/2024",
+    "Código de Acción": 7
+  },
+  {
+    "Nombre": "Angela",
+    "Fecha": "01/05/2024",
+    "Código de Acción": 6
+  },
+  {
+    "Nombre": "Angela",
+    "Fecha": "05/05/2024",
+    "Código de Acción": 8
+  },
+  {
+    "Nombre": "Luz Delia",
+    "Fecha": "01/05/2024",
+    "Código de Acción": 4
+  },
+  {
+    "Nombre": "Luz Delia",
+    "Fecha": "05/05/2024",
+    "Código de Acción": 6
+  },
+  {
+    "Nombre": "Camila",
+    "Fecha": "01/05/2024",
+    "Código de Acción": 6
+  },
+  {
+    "Nombre": "Camila",
+    "Fecha": "05/05/2024",
+    "Código de Acción": 7
+  },
