@@ -1,37 +1,254 @@
-Nombre,Apellido,Curso,Semana,Codigo
-Arnold Julian,Aguirre Maldonado,101,Semana1,6
-Arnold Julian,Aguirre Maldonado,101,Semana2,8
-Arnold Julian,Aguirre Maldonado,101,Semana3,7
-Arnold Julian,Aguirre Maldonado,101, Semana4,3
-Arnold Julian,Aguirre Maldonado,101,Semana5,6
-Arnold Julian,Aguirre Maldonado,101,Semana6,9
-Arnold Julian,Aguirre Maldonado,101,Semana7,10
-Arnold Julian,Aguirre Maldonado,101,Semana8,3
-Arnold Julian,Aguirre Maldonado,101,Semana9,8
-Arnold Julian,Aguirre Maldonado,101,Semana10,10
-Arnold Julian,Aguirre Maldonado,101,Semana11,6
-Arnold Julian,Aguirre Maldonado,101,Semana12,4
-Camila,Gonzalez Ramirez,101,Semana1,4
-Camila,Gonzalez Ramirez,101,Semana2,6
-Camila,Gonzalez Ramirez,101,Semana3,6
-Camila,Gonzalez Ramirez,101, Semana4,4
-Camila,Gonzalez Ramirez,101,Semana5,10
-Camila,Gonzalez Ramirez,101,Semana6,8
-Camila,Gonzalez Ramirez,101,Semana7,2
-Camila,Gonzalez Ramirez,101,Semana8,4
-Camila,Gonzalez Ramirez,101,Semana9,9
-Camila,Gonzalez Ramirez,101,Semana10,6
-Camila,Gonzalez Ramirez,101,Semana11,9
-Camila,Gonzalez Ramirez,101,Semana12,7
-Yeider,Gonzalez Ramirez,101,Semana1,3
-Yeider,Gonzalez Ramirez,101,Semana2,1
-Yeider,Gonzalez Ramirez,101,Semana3,7
-Yeider,Gonzalez Ramirez,101, Semana4,10
-Yeider,Gonzalez Ramirez,101,Semana5,10
-Yeider,Gonzalez Ramirez,101,Semana6,9
-Yeider,Gonzalez Ramirez,101,Semana7,6
-Yeider,Gonzalez Ramirez,101,Semana8,4
-Yeider,Gonzalez Ramirez,101,Semana9,5
-Yeider,Gonzalez Ramirez,101,Semana10,8
-Yeider,Gonzalez Ramirez,101,Semana11,4
-Yeider,Gonzalez Ramirez,101,Semana12,9
+[
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana1",
+  "Codigo": 6
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana2",
+  "Codigo": 8
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana3",
+  "Codigo": 7
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": " Semana4",
+  "Codigo": 3
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana5",
+  "Codigo": 6
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana6",
+  "Codigo": 9
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana7",
+  "Codigo": 10
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana8",
+  "Codigo": 3
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana9",
+  "Codigo": 8
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana10",
+  "Codigo": 10
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana11",
+  "Codigo": 6
+ },
+ {
+  "Nombre": "Arnold Julian",
+  "Apellido": "Aguirre Maldonado",
+  "Curso": 101,
+  "Semana": "Semana12",
+  "Codigo": 4
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana1",
+  "Codigo": 4
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana2",
+  "Codigo": 6
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana3",
+  "Codigo": 6
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": " Semana4",
+  "Codigo": 4
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana5",
+  "Codigo": 10
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana6",
+  "Codigo": 8
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana7",
+  "Codigo": 2
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana8",
+  "Codigo": 4
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana9",
+  "Codigo": 9
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana10",
+  "Codigo": 6
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana11",
+  "Codigo": 9
+ },
+ {
+  "Nombre": "Camila",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana12",
+  "Codigo": 7
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana1",
+  "Codigo": 3
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana2",
+  "Codigo": 1
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana3",
+  "Codigo": 7
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": " Semana4",
+  "Codigo": 10
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana5",
+  "Codigo": 10
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana6",
+  "Codigo": 9
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana7",
+  "Codigo": 6
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana8",
+  "Codigo": 4
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana9",
+  "Codigo": 5
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana10",
+  "Codigo": 8
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana11",
+  "Codigo": 4
+ },
+ {
+  "Nombre": "Yeider",
+  "Apellido": "Gonzalez Ramirez",
+  "Curso": 101,
+  "Semana": "Semana12",
+  "Codigo": 9
+ }
+]
