@@ -1,42 +1,42 @@
 [
   {
-    "Nombre": "Arnold Julian",
-    "Fecha": "01/05/2024",
-    "Código de Acción": 9
+    "nombre": "Arnold Julian",
+    "fecha": "01/05/2024",
+    "codigo": 9
   },
   {
-    "Nombre": "Arnold Julian",
-    "Fecha": "05/05/2024",
-    "Código de Acción": 7
+    "nombre": "Arnold Julian",
+    "fecha": "05/05/2024",
+    "codigo": 7
   },
   {
-    "Nombre": "Angela",
-    "Fecha": "01/05/2024",
-    "Código de Acción": 6
+    "nombre": "Angela",
+    "fecha": "01/05/2024",
+    "codigo": 6
   },
   {
-    "Nombre": "Angela",
-    "Fecha": "05/05/2024",
-    "Código de Acción": 8
+    "nombre": "Angela",
+    "fecha": "05/05/2024",
+    "codigo": 8
   },
   {
-    "Nombre": "Luz Delia",
-    "Fecha": "01/05/2024",
-    "Código de Acción": 4
+    "nombre": "Luz Delia",
+    "fecha": "01/05/2024",
+    "codigo": 4
   },
   {
-    "Nombre": "Luz Delia",
-    "Fecha": "05/05/2024",
-    "Código de Acción": 6
+    "nombre": "Luz Delia",
+    "fecha": "05/05/2024",
+    "codigo": 6
   },
   {
-    "Nombre": "Camila",
-    "Fecha": "01/05/2024",
-    "Código de Acción": 6
+    "nombre": "Camila",
+    "fecha": "01/05/2024",
+    "codigo": 6
   },
   {
-    "Nombre": "Camila",
-    "Fecha": "05/05/2024",
-    "Código de Acción": 7
+    "nombre": "Camila",
+    "fecha": "05/05/2024",
+    "codigo": 7
   }
 ]
