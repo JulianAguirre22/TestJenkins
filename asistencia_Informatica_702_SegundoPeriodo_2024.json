@@ -7,17 +7,77 @@
   {
     "nombre": "Arnold Julian",
     "fecha": "05/05/2024",
-    "codigo": 7
+    "codigo": 1
   },
+  {
+    "nombre": "Arnold Julian",
+    "fecha": "10/05/2024",
+    "codigo": 2
+  },  
+  {
+    "nombre": "Arnold Julian",
+    "fecha": "13/05/2024",
+    "codigo": 8
+  },  
+  {
+    "nombre": "Arnold Julian",
+    "fecha": "20/05/2024",
+    "codigo": 9
+  },  
+  {
+    "nombre": "Arnold Julian",
+    "fecha": "22/05/2024",
+    "codigo": 7
+  },  
+  {
+    "nombre": "Arnold Julian",
+    "fecha": "24/05/2024",
+    "codigo": 2
+  },  
+  {
+    "nombre": "Arnold Julian",
+    "fecha": "27/05/2024",
+    "codigo": 1
+  },  
   {
     "nombre": "Angela",
     "fecha": "01/05/2024",
-    "codigo": 6
+    "codigo": 1
   },
   {
     "nombre": "Angela",
     "fecha": "05/05/2024",
+    "codigo": 1
+  },
+    {
+    "nombre": "Angela",
+    "fecha": "10/05/2024",
+    "codigo": 5
+  },
+  {
+    "nombre": "Angela",
+    "fecha": "13/05/2024",
     "codigo": 8
+  },
+  {
+    "nombre": "Angela",
+    "fecha": "20/05/2024",
+    "codigo": 4
+  },
+  {
+    "nombre": "Angela",
+    "fecha": "22/05/2024",
+    "codigo": 6
+  },
+  {
+    "nombre": "Angela",
+    "fecha": "24/05/2024",
+    "codigo": 4
+  },
+  {
+    "nombre": "Angela",
+    "fecha": "27/05/2024",
+    "codigo": 3
   },
   {
     "nombre": "Luz Delia",
@@ -30,6 +90,36 @@
     "codigo": 6
   },
   {
+    "nombre": "Luz Delia",
+    "fecha": "10/05/2024",
+    "codigo": 6
+  },
+  {
+    "nombre": "Luz Delia",
+    "fecha": "13/05/2024",
+    "codigo": 6
+  },
+  {
+    "nombre": "Luz Delia",
+    "fecha": "20/05/2024",
+    "codigo": 6
+  },
+  {
+    "nombre": "Luz Delia",
+    "fecha": "22/05/2024",
+    "codigo": 6
+  },
+  {
+    "nombre": "Luz Delia",
+    "fecha": "24/05/2024",
+    "codigo": 6
+  },
+  {
+    "nombre": "Luz Delia",
+    "fecha": "27/05/2024",
+    "codigo": 6
+  },
+  {
     "nombre": "Camila",
     "fecha": "01/05/2024",
     "codigo": 6
@@ -38,5 +128,75 @@
     "nombre": "Camila",
     "fecha": "05/05/2024",
     "codigo": 7
-  }
+  },
+  {
+    "nombre": "Camila",
+    "fecha": "10/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Camila",
+    "fecha": "13/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Camila",
+    "fecha": "20/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Camila",
+    "fecha": "22/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Camila",
+    "fecha": "24/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Camila",
+    "fecha": "27/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "01/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "05/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "10/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "13/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "20/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "22/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "24/05/2024",
+    "codigo": 7
+  },
+  {
+    "nombre": "Yeider",
+    "fecha": "27/05/2024",
+    "codigo": 7
+  },
 ]
